@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, my name is Mikaila Brown. I am a new software developer and am eager to grow my skill set and increase my knowledge in all things coding.
+Hi, my name is Mikaila Brown. I am a software developer and am eager to grow my skill set and increase my knowledge in all things coding.
